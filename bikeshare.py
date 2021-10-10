@@ -8,7 +8,10 @@ import numpy as np
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
+"""
+The above includes the city names and the relevant CSV file
 
+"""
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
