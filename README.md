@@ -8,6 +8,7 @@ Bikeshare Project - Udacity
 
 ### Description
 Analyzing bike sharing data for different cities
+New York City, Washington and Chicago
 
 ### Files used
 new_york_city.csv
